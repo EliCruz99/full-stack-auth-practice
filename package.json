@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a simple todo list that uses auth to show your own tasks that you've created",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
